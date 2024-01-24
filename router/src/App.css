@@ -1,8 +1,4 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
 
-}
 
 body{
   margin: 0;
@@ -12,7 +8,7 @@ body{
 
 
 nav{
-  padding:10px;
+  padding-top: 10px;
   display: flex;
   background:#000;
   justify-content: space-between;
